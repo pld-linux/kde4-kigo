@@ -4,12 +4,12 @@
 
 Summary:	Kigo
 Name:		kde4-%{orgname}
-Version:	4.12.3
+Version:	4.12.4
 Release:	1
 License:	GPL
 Group:		X11/Applications/Games
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	4e569b72c28a46a84a09838cccc42591
+# Source0-md5:	e840e5ae41098ce473dd5255e482c1f4
 BuildRequires:	automoc4 >= 0.9.88
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	kde4-kdelibs-devel >= %{version}
